@@ -24,7 +24,7 @@ https://sumermal.github.io/weather-app/
 
 ## Screenshot
 
-![Weather App Screenshot](images/screenshot.png)
+![Weather App Screenshot](images/weather-app.png)
 
 ## How to Run
 
